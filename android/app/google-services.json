@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465075655646",
+    "project_id": "videoapp-4b999",
+    "storage_bucket": "videoapp-4b999.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465075655646:android:0ba0904231719bd3b3034f",
+        "android_client_info": {
+          "package_name": "com.example.videoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7P09N_Ulgg6JbOmcJdG9veIUfgg9bDgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
